@@ -1,7 +1,5 @@
 [defaults]
 inventory=inventory
-forks=40
-gathering=explicit
 
 [privilege_escalation]
 become=true
